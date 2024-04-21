@@ -2,7 +2,7 @@
 
 <div>
 
-<img align="right" height="80px" length= "200px" width="80px" alt="Guilherme Fanucchi" src="https://i0.wp.com/f8n-production.s3.us-east-2.amazonaws.com/collections/ftz11wts6.gif"/>
+<img align="right" height="75px" length= "200px" width="75px" alt="Guilherme Fanucchi" src="https://i0.wp.com/f8n-production.s3.us-east-2.amazonaws.com/collections/ftz11wts6.gif"/>
 
 <div/>
 
