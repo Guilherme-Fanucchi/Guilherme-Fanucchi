@@ -2,7 +2,7 @@
 
 <div>
 
-<img align="right" height="80px" length= "200px" width="80px" alt="Guilherme Fanucchi" src="https://thumbs.dreamstime.com/b/hacker-cat-working-job-profession-illustration-generative-ai-274903061.jpg"/>
+<img align="right" height="75px" width="75px" alt="Guilherme Fanucchi" src="https://thumbs.dreamstime.com/b/hacker-cat-working-job-profession-illustration-generative-ai-274903061.jpg"/>
 
 <div/>
 
