@@ -23,7 +23,7 @@
 
 ## Linguagens e ferramentas
 <div style="display: inline_block"><br>
-<img alt="Icons" align="center" height="40" width="290" src="https://skillicons.dev/icons?i=vscode,py,java,git,powerbi" />
+<img alt="Icons" align="center" height="40" width="290" src="https://skillicons.dev/icons?i=vscode,py,java,git,mysql" />
   
   
 </div>
